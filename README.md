@@ -13,7 +13,7 @@ These projects should take a maximum of of 15 minutes each to understand and the
 - Else If the user guessed a number which is smaller than a randomly selected number, the user gets an output “Try Again! You guessed too small”
 - And if the user guessed in a minimum number of guesses, the user gets a “Congratulations! ” Output.
 - Else if the user didn’t guess the integer in the minimum number of guesses, he/she will get “Better Luck Next Time!” output.
-- You will require to install Random and math libraries in Python, it is pre-installed in the.
+- You will require to install Random and math libraries in Python, it is pre-installed in the Python programming language.
 
 ## Weather Forecaster:
 - This weather application gets real-time weather conditions for any city using Python. 
