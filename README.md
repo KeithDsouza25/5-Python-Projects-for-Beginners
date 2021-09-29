@@ -30,6 +30,6 @@ These projects should take a maximum of of 15 minutes each to understand and the
 ## URL Shortener
 - This program takes your existing long URL and encodes it into a shorter version of itself using an API.
 - To run the program in your CMD type - Python filename.py URL
-<p style="font-family:Comic Sans"> Python URLShortener.py https://www.amazon.in/Seagull-Flight-Fashion-Extended-Embroidery/dp/B094JLQ69B/?_encoding=UTF8&pd_rd_w=YKskm&pf_rd_p=ab4aa62e-ee61-4bc4-928a-fc54f74f1993&pf_rd_r=G99VA7EFJF81E4BHW07B&pd_rd_r=9743f72c-2c2c-491a-955f-45d1f8686699&pd_rd_wg=VaHMp&ref_=pd_gw_ci_mcx_mr_hp_d </p>
+<p style= "font-style: italic;"> Python URLShortener.py https://www.amazon.in/Seagull-Flight-Fashion-Extended-Embroidery/dp/B094JLQ69B/?_encoding=UTF8&pd_rd_w=YKskm&pf_rd_p=ab4aa62e-ee61-4bc4-928a-fc54f74f1993&pf_rd_r=G99VA7EFJF81E4BHW07B&pd_rd_r=9743f72c-2c2c-491a-955f-45d1f8686699&pd_rd_wg=VaHMp&ref_=pd_gw_ci_mcx_mr_hp_d </p>
 
 - 
