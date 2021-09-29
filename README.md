@@ -15,6 +15,13 @@ These projects should take a maximum of of 15 minutes each to understand and the
 - Else if the user didn’t guess the integer in the minimum number of guesses, he/she will get “Better Luck Next Time!” output.
 - You will require to install Random and math libraries in Python, it is pre-installed in the Python programming language.
 
+## Quiz Game
+- In this project, the user gets a total of 10 Basic Python MCQs to solve.
+- The project is customisable to create a quiz related to any topic.
+- It works on a function run_quiz in which the for loop displays the questions in the list and takes inputs from the users.
+- These answers are then compared to the right answers in the questions list.
+- The final score is then displayed to the user.
+
 ## Random Password Generator:
 - In this project we ask the user to input the desired lenght of password to be created
 - Then we generate a password of given lenght and print it for the user.
@@ -30,15 +37,3 @@ These projects should take a maximum of of 15 minutes each to understand and the
 - The requests library comes preinstalled in the Python programming language.
 - You can install the Beautifulsoup library by using a pip command; pip install beautifulsoup4. Remember that this library is imported by the name of bs4 in your Python code.
 - The time generated in the output may not be same as the exact real-time. It will show the lower bound of the hour of your real-time.
-
-
-
-
-
-
-
-
-
-
-
-
