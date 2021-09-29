@@ -15,6 +15,10 @@ These projects should take a maximum of of 15 minutes each to understand and the
 - Else if the user didn’t guess the integer in the minimum number of guesses, he/she will get “Better Luck Next Time!” output.
 - You will require to install Random and math libraries in Python, it is pre-installed in the Python programming language.
 
+## Random Password Generator:
+- In this project we ask the user to input the desired lenght of password to be created
+- Then we generate a password of given lenght and print it for the user.
+- 
 ## Weather Forecaster:
 - This weather application gets real-time weather conditions for any city using Python. 
 - Instead of using an API, the program takes the name of a city and returns the weather information for that city by scratching the web.
@@ -23,13 +27,6 @@ These projects should take a maximum of of 15 minutes each to understand and the
 - You can install the Beautifulsoup library by using a pip command; pip install beautifulsoup4. Remember that this library is imported by the name of bs4 in your Python code.
 - The time generated in the output may not be same as the exact real-time. It will show the lower bound of the hour of your real-time.
 
-## Random Password Generator:
-- In this project we ask the user to input the desired lenght of password to be created
-- Then we generate a password of given lenght and print it for the user.
-
 ## URL Shortener
 - This program takes your existing long URL and encodes it into a shorter version of itself using an API.
 - To run the program in your CMD type - Python filename.py URL
-<p style= "font-style: italic;"> Python URLShortener.py https://www.amazon.in/Seagull-Flight-Fashion-Extended-Embroidery/dp/B094JLQ69B/?_encoding=UTF8&pd_rd_w=YKskm&pf_rd_p=ab4aa62e-ee61-4bc4-928a-fc54f74f1993&pf_rd_r=G99VA7EFJF81E4BHW07B&pd_rd_r=9743f72c-2c2c-491a-955f-45d1f8686699&pd_rd_wg=VaHMp&ref_=pd_gw_ci_mcx_mr_hp_d </p>
-
-- 
